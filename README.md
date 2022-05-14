@@ -26,9 +26,6 @@ _** I’m currently learning ...**_
 
 ![SoExcited~GIF](https://user-images.githubusercontent.com/103159110/168417028-99862305-6381-4154-8bf5-35d1eaafb025.gif)
 
-_**📫 How to reach me ...**_
-
-
 
 <!---
 cloudbear-yl/cloudbear-yl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
