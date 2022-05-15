@@ -1,6 +1,6 @@
-**Hey there! Welcome to my profile **(✿◡‿◡)****
+# **Hey there! Welcome to my profile **(✿◡‿◡)****
 
-_**👋 Hi, I’m Yan Li a.k.a @cloudbear-yl.**_
+ _**👋 Hi, I’m Yan Li a.k.a @cloudbear-yl.**_
 
 	An aspiring Cloud Support & DevOps Engineer in the making. 
 	I've started my learning journey on 31 March 2022 together with a wholesome bunch of people. 
@@ -26,6 +26,7 @@ _**🌱 I’m currently learning ...**_
 	7. Terraform
 
 ![SoExcited~GIF](https://user-images.githubusercontent.com/103159110/168417028-99862305-6381-4154-8bf5-35d1eaafb025.gif)
+
 
 
 Thanks for reading this! Bye for now ! 🙋🏻‍♀️
