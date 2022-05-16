@@ -10,9 +10,7 @@
 
 _**👀 I’m interested in ...**_
 
-	Hmm... honestly, I'm not too sure either🙃 
 	I'm still curious about many different things, but, not sure where to start from. 
-
 	However, if there are challenges for newbie like me, do feel free to let me know. 
 
 _**🌱 I’m currently learning ...**_
@@ -24,10 +22,6 @@ _**🌱 I’m currently learning ...**_
 	5. Microsoft Azure
 	6. Ansible
 	7. Terraform
-
-![SoExcited~GIF](https://user-images.githubusercontent.com/103159110/168417028-99862305-6381-4154-8bf5-35d1eaafb025.gif)
-
-
 
 Thanks for reading this! Bye for now ! 🙋🏻‍♀️
 
